@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.23)  9 NOV 2021 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.23)  9 NOV 2021 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2435,80 +2435,96 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
  [2
 
-] [3
-
 ]
+<images/fs_rights.png, id=49, 642.4803pt x 481.8pt>
+File: images/fs_rights.png Graphic file (type png)
+<use images/fs_rights.png>
+Package pdftex.def Info: images/fs_rights.png  used on input line 25.
+(pdftex.def)             Requested size: 307.28987pt x 230.43797pt.
+
+Overfull \vbox (18.69193pt too high) detected at line 25
+ []
+
+[3
+
+ <./images/fs_rights.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-42.
+43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [4
+)
+<images/community.png, id=57, 750.85715pt x 745.22571pt>
+File: images/community.png Graphic file (type png)
+<use images/community.png>
+Package pdftex.def Info: images/community.png  used on input line 43.
+(pdftex.def)             Requested size: 153.64493pt x 152.48798pt.
+ [4
 
-] [5
+ <./images/community.png>] [5
 
 ] [6
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 83.
+(Font)              <9> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 83.
+(Font)              <5> on input line 84.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 83.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 84.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 83.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 84.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
-3.
-
-(/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
+4.
+ (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [7
 
 ]
-<images/problems.png, id=79, 939.51pt x 397.485pt>
+<images/problems.png, id=84, 939.51pt x 397.485pt>
 File: images/problems.png Graphic file (type png)
 <use images/problems.png>
-Package pdftex.def Info: images/problems.png  used on input line 89.
+Package pdftex.def Info: images/problems.png  used on input line 90.
 (pdftex.def)             Requested size: 307.28987pt x 130.00595pt.
- [8
+
+[8
 
  <./images/problems.png>]
-<images/negative_behaviour.png, id=87, 909.3975pt x 536.0025pt>
+<images/negative_behaviour.png, id=91, 909.3975pt x 536.0025pt>
 File: images/negative_behaviour.png Graphic file (type png)
 <use images/negative_behaviour.png>
-Package pdftex.def Info: images/negative_behaviour.png  used on input line 95.
+Package pdftex.def Info: images/negative_behaviour.png  used on input line 96.
 (pdftex.def)             Requested size: 307.28987pt x 181.11795pt.
  [9
 
  <./images/negative_behaviour.png>]
-<images/importance.png, id=94, 896.34875pt x 645.41125pt>
+<images/importance.png, id=98, 896.34875pt x 645.41125pt>
 File: images/importance.png Graphic file (type png)
 <use images/importance.png>
-Package pdftex.def Info: images/importance.png  used on input line 101.
+Package pdftex.def Info: images/importance.png  used on input line 102.
 (pdftex.def)             Requested size: 307.28987pt x 221.25883pt.
 
-Overfull \vbox (17.51279pt too high) detected at line 101
+Overfull \vbox (17.51279pt too high) detected at line 102
  []
 
 [10
 
  <./images/importance.png>]
-<images/policies.png, id=101, 887.315pt x 385.44pt>
+<images/policies.png, id=105, 887.315pt x 385.44pt>
 File: images/policies.png Graphic file (type png)
 <use images/policies.png>
-Package pdftex.def Info: images/policies.png  used on input line 107.
+Package pdftex.def Info: images/policies.png  used on input line 108.
 (pdftex.def)             Requested size: 307.28987pt x 133.48273pt.
  [11
 
  <./images/policies.png>]
-<images/user_value.png, id=108, 922.44624pt x 650.43pt>
+<images/user_value.png, id=112, 922.44624pt x 650.43pt>
 File: images/user_value.png Graphic file (type png)
 <use images/user_value.png>
-Package pdftex.def Info: images/user_value.png  used on input line 113.
+Package pdftex.def Info: images/user_value.png  used on input line 114.
 (pdftex.def)             Requested size: 307.28987pt x 216.6672pt.
 
-Overfull \vbox (12.92116pt too high) detected at line 113
+Overfull \vbox (12.92116pt too high) detected at line 114
  []
 
 [12
@@ -2525,80 +2541,161 @@ Overfull \vbox (12.92116pt too high) detected at line 113
 
 ] [18
 
-] [19
+]
+<images/help_needed.png, id=152, 499.6266pt x 486.1362pt>
+File: images/help_needed.png Graphic file (type png)
+<use images/help_needed.png>
+Package pdftex.def Info: images/help_needed.png  used on input line 181.
+(pdftex.def)             Requested size: 153.64493pt x 149.49155pt.
 
-] [20
+Overfull \vbox (4.35965pt too high) detected at line 181
+ []
+
+[19
+
+ <./images/help_needed.png>] [20
 
 ]
-<images/multikolo.png, id=161, 503.2401pt x 140.4447pt>
+<images/multikolo.png, id=167, 503.2401pt x 140.4447pt>
 File: images/multikolo.png Graphic file (type png)
 <use images/multikolo.png>
-Package pdftex.def Info: images/multikolo.png  used on input line 182.
+Package pdftex.def Info: images/multikolo.png  used on input line 190.
 (pdftex.def)             Requested size: 307.28987pt x 85.76114pt.
  [21
 
  <./images/multikolo.png>] [22
 
-] [23
+]
+[23
 
-] [24
+]
+<images/owl.png, id=186, 398.99063pt x 401.5pt>
+File: images/owl.png Graphic file (type png)
+<use images/owl.png>
+Package pdftex.def Info: images/owl.png  used on input line 235.
+(pdftex.def)             Requested size: 153.64493pt x 154.61166pt.
+ [24
 
-] [25
+ <./images/owl.png>] [25
 
 ] [26
 
-] [27
+]
+<images/good.png, id=213, 803.0pt x 803.0pt>
+File: images/good.png Graphic file (type png)
+<use images/good.png>
+Package pdftex.def Info: images/good.png  used on input line 278.
+(pdftex.def)             Requested size: 153.64493pt x 153.63757pt.
+ [27
 
-] [28
+ <./images/good.png>] [28
 
 ] [29
 
-] [30
+]
+<images/friends.png, id=231, 144.54pt x 72.27pt>
+File: images/friends.png Graphic file (type png)
+<use images/friends.png>
+Package pdftex.def Info: images/friends.png  used on input line 316.
+(pdftex.def)             Requested size: 276.559pt x 138.28702pt.
 
-] [31
+Overfull \vbox (13.30972pt too high) detected at line 316
+ []
+
+[30
+
+ <./images/friends.png>] [31
+
+] [32
 
 ]
-[32
+<images/communicate.png, id=249, 451.6875pt x 388.45125pt>
+File: images/communicate.png Graphic file (type png)
+<use images/communicate.png>
+Package pdftex.def Info: images/communicate.png  used on input line 360.
+(pdftex.def)             Requested size: 153.64493pt x 132.13687pt.
+ [33
 
-] [33
+ <./images/communicate.png>]
+<images/info.png, id=256, 102.69272pt x 102.69272pt>
+File: images/info.png Graphic file (type png)
+<use images/info.png>
+Package pdftex.def Info: images/info.png  used on input line 377.
+(pdftex.def)             Requested size: 153.64493pt x 153.65164pt.
+ [34
 
-] [34
-
-] [35
+ <./images/info.png>] [35
 
 ] [36
 
 ] [37
 
-] [38
+]
+<images/refuse.png, id=279, 491.30339pt x 530.42201pt>
+File: images/refuse.png Graphic file (type png)
+<use images/refuse.png>
+Package pdftex.def Info: images/refuse.png  used on input line 421.
+(pdftex.def)             Requested size: 153.64493pt x 165.87787pt.
+ [38
 
-] [39
+ <./images/refuse.png>] [39
 
 ] [40
 
 ] [41
 
-] [42
-
-] [43
-
-] [44
-
-] [45
+]
+[42
 
 ]
-Overfull \hbox (12.68437pt too wide) in paragraph at lines 441--441
+<images/fedora.png, id=309, 616.3025pt x 533.995pt>
+File: images/fedora.png Graphic file (type png)
+<use images/fedora.png>
+Package pdftex.def Info: images/fedora.png  used on input line 466.
+(pdftex.def)             Requested size: 153.64493pt x 133.12361pt.
+ [43
+
+ <./images/fedora.png>]
+<images/team.png, id=317, 412.67218pt x 418.95653pt>
+File: images/team.png Graphic file (type png)
+<use images/team.png>
+Package pdftex.def Info: images/team.png  used on input line 484.
+(pdftex.def)             Requested size: 153.64493pt x 155.98956pt.
+ [44
+
+ <./images/team.png>] [45
+
+]
+Overfull \hbox (12.68437pt too wide) in paragraph at lines 504--504
 [][]\T1/lmss/m/n/9 https://fedoraproject.org/wiki/QA:Testcase_upgrade_dnf_previ
 ous_workstation|  
  []
 
 [46
 
-] [47
+]
+<images/sources.png, id=339, 803.0pt x 536.0025pt>
+File: images/sources.png Graphic file (type png)
+<use images/sources.png>
+Package pdftex.def Info: images/sources.png  used on input line 522.
+(pdftex.def)             Requested size: 153.64493pt x 102.55307pt.
+ [47
 
-] [48
+ <./images/sources.png>] [48
 
 ]
+<images/questions.png, id=361, 697.60625pt x 770.88pt>
+File: images/questions.png Graphic file (type png)
+<use images/questions.png>
+Package pdftex.def Info: images/questions.png  used on input line 535.
+(pdftex.def)             Requested size: 245.2303pt x 270.98831pt.
+
+Overfull \vbox (67.24226pt too high) detected at line 535
+ []
+
+[49
+
+ <./images/questions.png>]
 \tf@nav=\write6
 \openout6 = `rha_zapojenise.nav'.
 
@@ -2613,27 +2710,29 @@ Package rerunfilecheck Info: File `rha_zapojenise.out' has not changed.
 (rerunfilecheck)             Checksum: 1467E535AD101D62F4D2AF02A02D8EA8;1006.
  ) 
 Here is how much of TeX's memory you used:
- 25595 strings out of 480806
- 489104 string characters out of 5905151
+ 25675 strings out of 480806
+ 490743 string characters out of 5905151
  776850 words of memory out of 6000000
- 42289 multiletter control sequences out of 15000+600000
+ 42354 multiletter control sequences out of 15000+600000
  475088 words of font info for 77 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,13n,126p,1813b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texli
-ve/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/share/texlive/texmf-dist/font
-s/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-lm/lmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/lm/lmsso10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsso8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on rha_zapojenise.pdf (48 pages, 557099 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/t
+exlive/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/f
+onts/enc/dvips/lm/lm-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/lm/lmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/lm/lmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/lm/lmtt9.pfb>
+Output written on rha_zapojenise.pdf (49 pages, 1695276 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 102 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 436 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
