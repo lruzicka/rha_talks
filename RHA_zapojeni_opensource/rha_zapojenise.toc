@@ -1,0 +1,6 @@
+\babel@toc {czech}{}
+\beamer@sectionintoc {1}{Svobodný software a komunita}{2}{0}{1}
+\beamer@sectionintoc {2}{Organizace komunit}{13}{0}{2}
+\beamer@sectionintoc {3}{Proč a jak přispívat v komunitě?}{17}{0}{3}
+\beamer@sectionintoc {4}{Jak se přímo zapojit do komunity?}{20}{0}{4}
+\beamer@sectionintoc {5}{Jak se zapojit do vývoje Fedory}{40}{0}{5}
